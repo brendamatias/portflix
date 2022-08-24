@@ -1,54 +1,45 @@
-<p align="center">
-  <a href="https://www.gatsbyjs.com/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter-ts">
-    <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
-  </a>
-</p>
 <h1 align="center">
-  Gatsby minimal TypeScript starter
+  <img alt="Portflix Logo" src=".github/logo.svg" width="250px" />
 </h1>
 
-## 🚀 Quick start
+<div align="center">
+  <a href="http://makeapullrequest.com">
+    <img src="https://img.shields.io/badge/contribuition-welcome-brightgreen.svg" alt="PRs Welcome">
+  </a>
+  <a href="https://saythanks.io/to/brendamatias">
+      <img src="https://img.shields.io/badge/SayThanks.io-%E2%98%BC-1EAEDB.svg">
+  </a>
+</div>
+<div align="center">
+  <a href="https://www.buymeacoffee.com/brendamatiass" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="30"></a>
+</div>
 
-1.  **Create a Gatsby site.**
+<br>
 
-    Use the Gatsby CLI to create a new site, specifying the minimal TypeScript starter.
+<img alt="Portflix" src=".github/preview.jpg" width="100%" />
 
-    ```shell
-    # create a new Gatsby site using the minimal TypeScript starter
-    npm init gatsby
-    ```
+<div align="center">
+  <a align="center" href="https://portflix.netlify.app/" alt="Brenda Matias Portflix">See the project</a>
+</div>
 
-2.  **Start developing.**
 
-    Navigate into your new site’s directory and start it up.
+## 📑 About
 
-    ```shell
-    cd my-gatsby-site/
-    npm run develop
-    ```
+Portflix is a simple, fully responsive portfolio website based on the Netflix interface.
 
-3.  **Open the code and start customizing!**
+## :rocket: Technologies
 
-    Your site is now running at http://localhost:8000!
+- [Gatsby](https://www.gatsbyjs.com/)
+- [React](https://reactjs.org)
+- [Vercel](https://vercel.com/)
 
-    Edit `src/pages/index.tsx` to see your site update in real-time!
 
-4.  **Learn more**
+## 💻 Run the project
 
-    - [Documentation](https://www.gatsbyjs.com/docs/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter-ts)
+- Install the dependencies: `yarn install` or `npm install`;
+- Run the application: `yarn develop` or `npm run develop`;
+---
 
-    - [Tutorials](https://www.gatsbyjs.com/tutorial/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter-ts)
-
-    - [Guides](https://www.gatsbyjs.com/tutorial/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter-ts)
-
-    - [API Reference](https://www.gatsbyjs.com/docs/api-reference/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter-ts)
-
-    - [Plugin Library](https://www.gatsbyjs.com/plugins?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter-ts)
-
-    - [Cheat Sheet](https://www.gatsbyjs.com/docs/cheat-sheet/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter-ts)
-
-## 🚀 Quick start (Gatsby Cloud)
-
-Deploy this starter with one click on [Gatsby Cloud](https://www.gatsbyjs.com/cloud/):
-
-[<img src="https://www.gatsbyjs.com/deploynow.svg" alt="Deploy to Gatsby Cloud">](https://www.gatsbyjs.com/dashboard/deploynow?url=https://github.com/gatsbyjs/gatsby-starter-minimal-ts)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brenda-matias/)](https://www.linkedin.com/in/brenda-matias/)
+[![Behance Badge](https://img.shields.io/badge/Behance-0054F7?style=flat-square&logo=behance&logoColor=white&link=https://www.behance.net/brendamatias)](https://www.behance.net/brendamatias)
+[![Website Badge](https://img.shields.io/badge/Website-000000?style=flat-square&logo=About.me&logoColor=white&link=https://brendamatias.dev/)](https://brendamatias.dev/)
